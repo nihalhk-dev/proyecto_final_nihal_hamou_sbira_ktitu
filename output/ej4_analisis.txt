@@ -1,0 +1,15 @@
+ANÁLISIS DEL RESIDUO
+========================================
+Media: 0.1271
+Std: 3.2220
+Asimetría: -0.0509
+Curtosis: -0.0610
+
+Test de normalidad (Jarque-Bera)
+p-value: 0.5766
+Test de estacionariedad (ADF)
+p-value: 0.0000
+→ Serie estacionaria
+
+Conclusión:
+El residuo se comporta aproximadamente como ruido blanco.
