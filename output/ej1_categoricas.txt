@@ -1,0 +1,14 @@
+ANÁLISIS DE VARIABLES CATEGÓRICAS
+========================================
+
+Variable: education
+education
+Graduate        0.502225
+Not Graduate    0.497775
+Name: proportion, dtype: float64
+
+Variable: self_employed
+self_employed
+Yes    0.503631
+No     0.496369
+Name: proportion, dtype: float64

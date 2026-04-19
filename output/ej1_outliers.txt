@@ -1,0 +1,7 @@
+DETECCIÓN DE OUTLIERS (IQR)
+========================================
+IQR: 13800000.0
+Límite inferior (Lower bound): -13000000.0
+Límite superior (Upper bound): 42200000.0
+Número total de outliers: 0
+Variable analizada: loan_amount

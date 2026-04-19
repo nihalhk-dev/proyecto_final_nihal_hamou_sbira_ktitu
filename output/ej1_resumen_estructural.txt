@@ -1,0 +1,35 @@
+RESUMEN ESTRUCTURAL DEL DATASET
+========================================
+Filas (Observaciones): 4269
+Columnas (Variables): 13
+
+Tipos de datos:
+loan_id                     int64
+no_of_dependents            int64
+education                     str
+self_employed                 str
+income_annum                int64
+loan_amount                 int64
+loan_term                   int64
+cibil_score                 int64
+residential_assets_value    int64
+commercial_assets_value     int64
+luxury_assets_value         int64
+bank_asset_value            int64
+loan_status                   str
+
+Uso de memoria (bytes):
+Index                          132
+loan_id                      34152
+no_of_dependents             34152
+education                   256102
+self_employed               224138
+income_annum                 34152
+loan_amount                  34152
+loan_term                    34152
+cibil_score                  34152
+residential_assets_value     34152
+commercial_assets_value      34152
+luxury_assets_value          34152
+bank_asset_value             34152
+loan_status                 247602

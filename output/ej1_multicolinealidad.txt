@@ -1,0 +1,4 @@
+ANÁLISIS DE MULTICOLINEALIDAD (|r| > 0.9)
+========================================
+Alerta: loan_amount y income_annum tienen una correlación de r = 0.9275
+Alerta: luxury_assets_value y income_annum tienen una correlación de r = 0.9291
